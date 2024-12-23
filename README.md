@@ -74,7 +74,7 @@ void slots(int *balance)
 ## **How to Run the Program**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/xstolas/interactive-casino.git  
+   git clone https://github.com/Quest2956/Casino-Project.git
    ```  
 2. Navigate to the project directory:  
    ```bash  
